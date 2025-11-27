@@ -29,22 +29,22 @@ python --version
 ```
 ---
 ## ▶️ Programm starten
-Repository klonen:
-
-bash
-```Code kopieren
+1. Repository klonen:```
 git clone https://github.com/DEIN_NAME/einkaufsliste-tkinter.git
-In den Projektordner wechseln:
+
+```bash
+git clone https://github.com/DEIN_NAME/einkaufsliste-tkinter.git
 ```
 
-bash
-```Code kopieren
+2. In den Projektordner wechseln:
+
+```bash
 cd einkaufsliste-tkinter
-Programm ausführen:
-```
 
-bash
-```Code kopieren
+```
+3. Programm ausführen:
+```bash
+Code kopieren
 python einkaufsliste_gui.py
 ```
 ---
